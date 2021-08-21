@@ -1,4 +1,5 @@
 # entrance
+```use node@14```
 
 ## Project setup
 ```
@@ -22,3 +23,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Report
+
+``Time Spent: 14 hours``
+
+``improve html design if i had more time``
